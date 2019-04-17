@@ -1,0 +1,14 @@
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.csprojAssemblyReference.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.RazorAssemblyInfo.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.RazorAssemblyInfo.cs
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.AssemblyInfoInputs.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.AssemblyInfo.cs
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\bin\Debug\netcoreapp2.2\MusicGroups.Domain.deps.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\bin\Debug\netcoreapp2.2\MusicGroups.Domain.runtimeconfig.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\bin\Debug\netcoreapp2.2\MusicGroups.Domain.runtimeconfig.dev.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\bin\Debug\netcoreapp2.2\MusicGroups.Domain.dll
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\bin\Debug\netcoreapp2.2\MusicGroups.Domain.pdb
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.RazorTargetAssemblyInfo.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.dll
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.Domain\obj\Debug\netcoreapp2.2\MusicGroups.Domain.pdb

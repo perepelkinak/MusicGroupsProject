@@ -1,0 +1,17 @@
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.DAL.deps.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.DAL.runtimeconfig.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.DAL.runtimeconfig.dev.json
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.DAL.dll
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.DAL.pdb
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.Domain.dll
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\bin\Debug\netcoreapp2.2\MusicGroups.Domain.pdb
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.csprojAssemblyReference.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.RazorAssemblyInfo.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.RazorAssemblyInfo.cs
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.AssemblyInfoInputs.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.AssemblyInfo.cs
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.RazorTargetAssemblyInfo.cache
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.csproj.CopyComplete
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.dll
+C:\Users\Kseniia\RiderProjects\MusicGroups\MusicGroups.DAL\obj\Debug\netcoreapp2.2\MusicGroups.DAL.pdb

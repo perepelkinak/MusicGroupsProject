@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Kseniia\\RiderProjects\\MusicGroups\\MusicGroups.BLL\\MusicGroups.BLL.csproj",
+    "projectName": "MusicGroups.BLL",
+    "projectPath": "C:\\Users\\Kseniia\\RiderProjects\\MusicGroups\\MusicGroups.BLL\\MusicGroups.BLL.csproj",
+    "outputPath": "C:\\Users\\Kseniia\\RiderProjects\\MusicGroups\\MusicGroups.BLL\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\Kseniia\\RiderProjects\\MusicGroups\\MusicGroups.DAL\\MusicGroups.DAL.csproj": {
+            "projectPath": "C:\\Users\\Kseniia\\RiderProjects\\MusicGroups\\MusicGroups.DAL\\MusicGroups.DAL.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "MSBuilder": {
+          "target": "Package",
+          "version": "[0.2.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Ninject": {
+          "target": "Package",
+          "version": "[3.3.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
